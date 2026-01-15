@@ -1,6 +1,6 @@
 <div align="center">
   
-# 👋 Hi, I'm Avtma!
+# 👋 Hi, I'm Tharindu!
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=00D9FF&center=true&vCenter=true&width=940&lines=Electronics+%26+Embedded+Systems+Specialist;Full-Stack+IoT+Developer;Cloud+%26+Real-Time+Systems+Architect" alt="Typing SVG" />
 
@@ -65,40 +65,6 @@ I'm a **passionate electronics and embedded systems specialist** with expertise 
 
 ---
 
-## 🏗️ Architecture Expertise
-
-```mermaid
-graph LR
-    A[🔌 Hardware Layer] -->|C++| B[📡 Embedded Firmware]
-    B -->|MQTT/HTTP| C[☁️ Cloud IoT Core]
-    C -->|Message Queue| D[⚙️ Backend Services]
-    D -->|REST API| E[📱 Web/Mobile Apps]
-    D -->|Time-Series| F[(🗄️ TimescaleDB)]
-    D -->|Cache| G[(⚡ Redis)]
-    
-    style A fill:#ff6b6b
-    style B fill:#4ecdc4
-    style C fill:#ffe66d
-    style D fill:#95e1d3
-    style E fill:#a8e6cf
-    style F fill:#ffd3b6
-    style G fill:#ffaaa5
-```
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=avtma&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=avtma&layout=compact&langs_count=8&theme=tokyonight"/>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=avtma&theme=tokyonight" alt="GitHub Streak"/>
-</div>
-
----
 
 ## 🎯 What I'm Working On
 
@@ -112,10 +78,9 @@ graph LR
 ## 📫 Let's Connect!
 
 <p align="center">
-  <a href="https://linkedin.com/in/avtma"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-  <a href="https://github.com/avtma"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
-  <a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
-  <a href="https://twitter.com/avtma"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/></a>
+  <a href="[https://linkedin.com/in/avtma](https://www.linkedin.com/in/avtmadushan/)"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="https://github.com/elcoanlanka"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
+  <a href="mailto:info@elcoanlanka.lk"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
 </p>
 
 ---
